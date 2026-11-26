@@ -19,7 +19,7 @@
     
 </div>
  <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2000&pause=900&color=9202F0&background=BF32FF00&center=true&vCenter=true&width=435&lines=officially+pony+town's+ultron" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FEFF7&center=true&width=435&lines=Pony+Town's+Nam-gyu;Player+124" alt="Typing SVG" /></a>
   <br><br>
 <sub>recognised by <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a>, <a href="https://github.com/pt-everypony">@pt-everypony</a>, <a href="https://github.com/pt-fashion">@pt-fashion</a>, <a href="https://github.com/piddlesjet">@pt-piddles.jet</a>, <a href="https://github.com/pt-ship-nominations">@pt-ship-nominations</a> & <a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a> as Pony Town's Ultron !</sub>
     <p align="center"><sub>recognised by <a href="https://github.com/pt-walk-of-fame">@pt-walk-of-fame</a> as Ultron's wife !</sub>
