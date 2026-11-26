@@ -4,8 +4,7 @@
   <p align="center">· · ────── ꒰ঌ·✦·໒꒱ ────── · ·
 <br><br>
  <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=38F0F7&width=435&lines=Those+who+seek+life+shall+die+%2C;Those+who+seek+death+shall+live+.;Hey+%2C+Se-mi;Fucking+bitch%2C+come+here+!" alt="Typing SVG" /></a>
-<p align="center"><img src="https://i.postimg.cc/m2zpY1t2/2CDA7ABE-4283-43C5-A039-1E5DD34092EA.png" width="600">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=38F0F7&center=true&width=435&lines=Those+who+seek+life+shall+die+%2C;Those+who+seek+death+shall+live+.;Hey+%2C+Se-mi;Fucking+bitch%2C+come+here+!" alt="Typing SVG" /></a>
 </p>
         <br>
 <p align="center">
